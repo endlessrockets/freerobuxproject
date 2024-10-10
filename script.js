@@ -1,1 +1,1 @@
-
+<a class="html-attribute-value html-resource-link" target="_blank" href="/_next/static/chunks/webpack-987d9f14ccd6e832.js" rel="noreferrer noopener">/_next/static/chunks/webpack-987d9f14ccd6e832.js</a>
